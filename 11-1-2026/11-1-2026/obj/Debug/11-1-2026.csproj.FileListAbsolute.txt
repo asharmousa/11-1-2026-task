@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\bin\Debug\11-1-2026.exe.config
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\bin\Debug\11-1-2026.exe
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\bin\Debug\11-1-2026.pdb
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\obj\Debug\11-1-2026.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\obj\Debug\11-1-2026.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\obj\Debug\11-1-2026.exe
+C:\Users\PC\Desktop\C#orange\11-1-2026\11-1-2026\obj\Debug\11-1-2026.pdb
